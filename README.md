@@ -15,4 +15,6 @@ Build different machine learning models to predict if a given person has heart d
 11. the slope of the peak exercise ST segment
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
-The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
+
+## Target
+1. Heart Disease (2 values)
